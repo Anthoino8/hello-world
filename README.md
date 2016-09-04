@@ -1,2 +1,3 @@
 # hello-world
-just a repository
+
+Hi! My name is Anthonio Mohamed, i love playing basketball and am a practical learner.  
